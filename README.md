@@ -6,8 +6,6 @@ Developed a Sales Dashboard for the product based company which consists of sale
 
 A dataset which consists of Employee, sales region, orders, product and price.
 
-# Result
-
 
 # Dashboard
 
